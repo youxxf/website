@@ -1,0 +1,2 @@
+# Base .prettierignore on .gitignore and .eslintignore
+**/*.svg
